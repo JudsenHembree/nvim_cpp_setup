@@ -14,5 +14,8 @@ int main() {
         sum = hard(iter, sum);
         std::cout << "sum: " << sum << '\n';
     }
+
+    // testing octo.nvim
+    fprintf(stderr, "fprintf: %d\n", sum);
     return 0;
 }
