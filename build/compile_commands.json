@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/jud/code/cpp/nvim_setup/build",
+  "command": "/usr/bin/c++  -I/home/jud/code/cpp/nvim_setup/include  -std=c++11 -Wall -Wextra -Werror -std=gnu++11 -o CMakeFiles/setup.dir/src/main.cpp.o -c /home/jud/code/cpp/nvim_setup/src/main.cpp",
+  "file": "/home/jud/code/cpp/nvim_setup/src/main.cpp",
+  "output": "CMakeFiles/setup.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/jud/code/cpp/nvim_setup/build",
+  "command": "/usr/bin/c++  -I/home/jud/code/cpp/nvim_setup/include  -std=c++11 -Wall -Wextra -Werror -std=gnu++11 -o CMakeFiles/setup.dir/src/simple.cpp.o -c /home/jud/code/cpp/nvim_setup/src/simple.cpp",
+  "file": "/home/jud/code/cpp/nvim_setup/src/simple.cpp",
+  "output": "CMakeFiles/setup.dir/src/simple.cpp.o"
+}
+]

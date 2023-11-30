@@ -1,0 +1,3 @@
+/home/jud/code/cpp/nvim_setup/build/CMakeFiles/setup.dir
+/home/jud/code/cpp/nvim_setup/build/CMakeFiles/edit_cache.dir
+/home/jud/code/cpp/nvim_setup/build/CMakeFiles/rebuild_cache.dir
